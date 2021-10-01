@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>217504743824-1vgihal6n7c6kovlarjipp4p4vmnuhi0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.217504743824-1vgihal6n7c6kovlarjipp4p4vmnuhi0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>217504743824-89ovdhvivn3d4qqqha7avoc2slgoiis2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAT5UBsxe3W5Nxi-6ReB0Pi4aEoXKyk3cg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>217504743824</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.harmis.bigmart</string>
+	<key>PROJECT_ID</key>
+	<string>bigmart-7be63</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bigmart-7be63.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:217504743824:ios:1513440a09bac615517315</string>
+</dict>
+</plist>
